@@ -41,7 +41,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 3. Load the Brain (Our Predicted Matrix)
-df_preds = pd.read_csv('movie_predictions.csv', index_col=0)
+df_preds = pd.read_csv('04_Netflix_Recommendation_System/movie_predictions.csv', index_col=0)
 
 # 4. App Header
 st.markdown("<h1 style='text-align: center; color: #E50914; font-size: 50px;'>STREAMFLIX AI</h1>", unsafe_allow_html=True)
