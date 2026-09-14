@@ -17,4 +17,11 @@ Welcome to my master repository! My name is Muqeet, and here you will find all m
 * **Tech:** K-Means Clustering, PCA, StandardScaler, Streamlit.
 * 🔗 **[Live App Link](https://data-science-portfolio-swlldufntqtvk6mnwjepdq.streamlit.app/)**
 
-*(Project 4: Netflix Recommendation Engine - Coming Soon!)*
+#### 4. [🍿 StreamFlix AI Recommendation Engine (Dimensionality Reduction)](./04_Netflix_Recommendation_System)
+* **Goal:** Predicting personalized movie ratings from a massive sparse matrix.
+* **Tech:** Singular Value Decomposition (SVD), Matrix Factorization, Custom HTML/CSS Streamlit UI.
+* 🔗 **[Live App Link](https://data-science-portfolio-ezsd9ndh9qwgmtr59twonx.streamlit.app/)**
+
+---
+### 🎓 Education & Certification
+* **IIT Roorkee** - Advanced Machine Learning & Data Science
