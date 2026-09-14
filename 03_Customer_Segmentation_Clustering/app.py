@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # 1. Load the Pipeline (Our 3 Brains!)
-pipeline = joblib.load('customer_engine.pkl')
+pipeline = joblib.load('03_Customer_Segmentation_Clustering/customer_engine.pkl')
 scaler = pipeline['scaler']
 pca = pipeline['pca']
 kmeans = pipeline['kmeans']
