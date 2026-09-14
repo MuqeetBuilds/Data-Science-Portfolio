@@ -10,11 +10,11 @@ Welcome to my master repository! My name is Muqeet, and here you will find all m
 #### 2. [🕵️‍♂️ Credit Card Fraud Detection AI (Classification)](./02_Credit_Card_Fraud)
 * **Goal:** Catching fraudulent bank transactions in highly imbalanced data.
 * **Tech:** XGBoost, SMOTE, Confusion Matrix, Streamlit.
-* 🔗 **[Live App Link](PUT_YOUR_FRAUD_STREAMLIT_LINK_HERE)**
+* 🔗 **[Live App Link](https://data-science-portfolio-8ewfmpe5ioytrwm8t7vw7d.streamlit.app/)**
 
 #### 3. [🛍️ E-Commerce Customer Engine (Unsupervised Learning)](./03_Customer_Segmentation_Clustering)
 * **Goal:** Grouping unlabeled customers into distinct marketing tribes.
 * **Tech:** K-Means Clustering, PCA, StandardScaler, Streamlit.
-* 🔗 **[Live App Link](PUT_YOUR_CUSTOMER_STREAMLIT_LINK_HERE)**
+* 🔗 **[Live App Link](https://data-science-portfolio-swlldufntqtvk6mnwjepdq.streamlit.app/)**
 
 *(Project 4: Netflix Recommendation Engine - Coming Soon!)*
