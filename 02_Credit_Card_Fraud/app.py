@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # 1. Load the Brain (Our saved XGBoost model)
-model = joblib.load('fraud_model.pkl')
+model = joblib.load('02_Credit_Card_Fraud/fraud_model.pkl')
 
 # 2. Design the Website (Front-End)
 st.set_page_config(page_title="Fraud Detection Portal", page_icon="🕵️‍♂️", layout="centered")
